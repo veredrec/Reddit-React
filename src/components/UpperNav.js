@@ -10,11 +10,11 @@ class UpperNav extends Component {
             <i className="fa fa-caret-down" aria-hidden="true" />
           </li>
           <li className="top-menu-item strong">POPULAR</li>
-          <li className="dash"> &bullet; </li>
+          <li className="dash"> &#8226; </li>
           <li className="top-menu-item strong">ALL</li>
-          <li className="dash"> &bullet; </li>
+          <li className="dash"> &#8226; </li>
           <li className="top-menu-item strong">RANDOM</li>
-          <li className="dash"> &bullet; </li>
+          <li className="dash"> &#8226; </li>
           <li className="top-menu-item strong">USERS</li>
           <span className="pipe-upper"> | </span>
           <li className="top-menu-item">ASKREDDIT</li>
